@@ -1,4 +1,4 @@
-# Visual Studio 2015 user specific files
+# Visual Studio user specific files
 .vs/
 
 # Compiled Object files
@@ -41,6 +41,14 @@
 *.VC.db
 *.VC.opendb
 .vsconfig
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.code-workspace
+*.DotSettings.user
+.cache/
+compile_commands.json
 
 # Precompiled Assets
 SourceArt/**/*.png
